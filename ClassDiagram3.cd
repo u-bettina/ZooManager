@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ZooManager.Animal">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAIAIgAEBAAAgBQgAAAQIAAAAAAAAgACAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooManager.Income">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAACIAAAAiAAAAAAAAIAIAACACAAAAAAACAAAA=</HashCode>
+      <FileName>Income.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooManager.LuckyCard">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAgAAAAAAAAAAQAAAAEAAAgCAAwACAAA=</HashCode>
+      <FileName>LuckyCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooManager.Visitors">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIgAAAAAgAABAAAAAQgEAAAIBAAAgAAAAACAAA=</HashCode>
+      <FileName>Visitors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZooManager.XmlHandler">
+    <Position X="2" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ZooManager.HungerList">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAUAQAAAAAAAAAAIAAAAAAEAAAAAgAAAAEAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZooManager.FunList">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAEoAAAAAAAAAEABAE=</HashCode>
+      <FileName>Visitors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
